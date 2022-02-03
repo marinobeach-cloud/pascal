@@ -1,0 +1,3 @@
+# pascal
+
+practica en pascal
